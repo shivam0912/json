@@ -64,6 +64,51 @@
       "product_name": "bottle-3",
       "product_stock": "Not In Stock",
       "product_price": "$59"
+    },
+    {
+      "product_name": "bottle-6",
+      "product_stock": "Not In Stock",
+      "product_price": "₹59"
+    },
+    {
+      "product_name": "bottle-7",
+      "product_stock": "Not In Stock",
+      "product_price": "$59"
+    },
+    {
+      "product_name": "bottle-8",
+      "product_stock": "Not In Stock",
+      "product_price": "$59"
+    },
+    {
+      "product_name": "bottle-3",
+      "product_stock": "Not In Stock",
+      "product_price": "$59"
+    },
+    {
+      "product_name": "bottle-3",
+      "product_stock": "Not In Stock",
+      "product_price": "$59"
+    },
+    {
+      "product_name": "bottle-3",
+      "product_stock": "Not In Stock",
+      "product_price": "$59"
+    },
+    {
+      "product_name": "bottle-3",
+      "product_stock": "Not In Stock",
+      "product_price": "$59"
+    },
+    {
+      "product_name": "bottle-3",
+      "product_stock": "Not In Stock",
+      "product_price": "$59"
+    },
+    {
+      "product_name": "bottle-3",
+      "product_stock": "Not In Stock",
+      "product_price": "$59"
     }
   ]
 }
